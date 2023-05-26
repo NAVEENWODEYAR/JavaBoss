@@ -1,2 +1,3 @@
 "# JavaBoss" 
-Java -8 new features .
+Java -8 new features.
+1. funcional interface
