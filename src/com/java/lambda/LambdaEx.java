@@ -20,7 +20,7 @@ public class LambdaEx
         Lamdaex l1 = () -> {
             System.out.println("Lambda expression is function without the name.");
             System.out.println("Good morning");
-        };
+         };
         l1.m1();
     }
 }
